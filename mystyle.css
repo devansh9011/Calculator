@@ -1,0 +1,37 @@
+input
+{
+	width:100px;
+	height:70px;
+	font-size: 60px;
+	border-radius: 50px;
+	margin: 5px;
+	background-color: #ff0000;
+	color: #00cc00;
+	border-style: solid;
+	border-color: #000000;
+
+}
+#myform{
+	margin-left: 430px;
+	
+	
+
+}
+h1{
+	text-align: center;
+	font-size:80px;
+	margin-right: 20px;
+	margin-top:30px;
+	text-underline-position: 
+	color:#0000ff;
+}
+
+#dis{
+	width:450px;
+	height:80px;
+	border-style: solid;
+	text-align: center;
+	margin-left: 0px;
+	background-color:#ffff99;
+	border-color: #000;
+}
